@@ -1,4 +1,5 @@
 Reference sources -
+Te Aka Māori Dictionary. N.d. Accessable online. 
 Best,E 1955 'The astronomical knowledge of the Maori',Dominion Museum
     Monograph no.3 Wellington:Government Printer
 Best,E 1959 'The Maori division of time',Dominion Museum Monograph no4.
@@ -10,6 +11,7 @@ Leather,K and Hall,Richard 2004 'Tatai Arorangi: Maori Astronomy, Work of the
     gods',Viking sevenseas nz ltd, Paraparaumu, NZ, ISBN:085467105 6
 Lewis,D 1994 'We, the navigators. The ancient art of landfinding in
     the Pacific',University of Hawaii press
+Matamua, R. 2017. Matariki and Māori astronomy with Dr Rangi Matamua. Mcguinness Institute Te Hononga Waka.
 Orbell,M 1996 'The natural world of the Maori',David Bateman ltd
 Orchiston, W 'Australian Aboriginal, Polynesian and Maori Astronomy',
     Chapter of 1996 'Astronomy before the telescope' 318-328. Editor Chris
@@ -19,8 +21,19 @@ NOTES:
 Castor not pollux labelled Whakaahu
 
 put in matariki as a star 17499, and set magnitudes to limit 4.0 so it can be seen
+Correct Names of Matariki Constellation by star as recorded by Dr Rangi Matamua,
+Matariki 			Alceone
+Tupu-ā-rangi			Atlas
+Tupu-ā-nuku			Pleione
+Ururangi			Merope
+Waipunarangi			Electra
+Hiwa-i-te-rangi			Celaeno
+Waitī				Maia
+Waitā				Taygeta
+Pōhutukawa			Sterope
 
-stars in Matariki also randomly labelled, just to get the names in.
+
+
 
 put tekokota(hyades) in as a constellation
 
@@ -32,51 +45,75 @@ Earth is named Papa.
 
 In maori, double stars, optical or visual are called Pipiri, as an example Algieba is labelled Pipiri
 
-TERMS in this program: (well some of them)
+TERMS in this program: (well some of them) [Multiple spelling corrections made below by native Māori speaker @KururangiWanoa, these spellings can be cooberated with Te Aka Māori Dictionary] Corrections are recognised with an *
+
 Mercury				Takero
-Venus		(morning star)	Tawera
-		(evening star)	Meremere
+Venus		(morning star)			Kōpū (Kōpū-i-te-ata)
+		(morning or evening star) 	Tāwera
+		(evening star)			Meremere
+				Venus has multiple names and phases. Kōpu and Tāwea being the two 				 
+				most common. Where Tāwera is paired with either it fulfils
+				the role with the other star doesnt. E.g. in the East Coast
+				Kōpū-i-te-ata is the dawn star and Tāwera is its evening form. 
 Mars				Rangiwhenua
-Jupiter*			Perearau
-Saturn*				Perearau
-				Both Jupiter and Saturn the same conflicting name in Maori.
+Jupiter*			Hinetīweka*
+Saturn*				Pareārau*
+				While Jupiter and Saturn have conflicint names across some tribes. 				   
+				the name is most often attributed to Saturn. 
 Altair				Poutu-te-Rangi
 Antares				Rehua
-S_Sco				Pekehawani
+S_Sco				Pekehāwani*
 T_Sco				Whakaonge-kai
-Canopus				Autahi
+Canopus				Autahi (Atutahi, Paepaepoto, Makahea, Kauanga, Aotahi, Paepaetoto) 
 Procyon				Puanga Hori
 Rigel				Puanga
-Sirius				Takarua
-Vega				Whanui
+Sirius				Takurua*
+Vega				Whānui*
 Spica				Whiti-Kapeka
-Arcturus			Ruawahia
+Arcturus			Ruawāhia*
 Castor/(Pollox)			Whakaahu
-Aldebaran		        Taumatakuku
-Orion		(whole belt)	Hao - o- rua
-		(the belt)	Tau toro
+Aldebaran		        Taumatakuku (Whetū-Kura)
+Orion		(whole belt)	Te-Hao-o-Rua*
+		(the belt)	Tautoru*
 		(a part)	Te Kakau
-Scorpio				Ruhi
+Scorpio		(Alniyat)	Rūhī-te-rangi*
 		(the tail)	Te Waka-o-Tama-Rereti
 Pleiades			Matariki
-Pointers			Te Taura Ra o Tainui
-Maori constellation		Te-Ra-o-Tainui
-Hyades				Te Kokota
-Southern Cross			Mahutonga
-Coal sack 			Te Patiki
-Milky Way			Te ika o te rangi
+Pointers			Te Taura Ra o Rangi*
+Maori constellation		Te-Rā-o-Rangi*
+Hyades				Te Kōkota*
+Southern Cross			Māhutonga*
+Coal sack 			Te Pātiki*
+Milky Way			Te Ikanui o te rangi (also Called Te Mangoroa)*
 Large Magellan cloud		Te Waka Ruru
 Small Magellan cloud		Tuputuputu
 Double stars			Pipiri
 Comets				Auihi Turoa
 Ecliptic 			Pito - o - Watea
 Moon                            Te Marama
-Sun                             Te Ra
+Sun                             Te Rā*
 
 
 -Te-Ra-o-Tainui: A maori constellation without a European counterpart.
 This represents a waka, the belt of orion the keel,
 the hyades, a claw sail and the Pleiades the bow.
+
+[Correction for above - Technically Waka-nui and its multiple compartments (Te Rā o Tainui, te Taura o Tainui, are incorrect. Each tribe refers to the Waka by their own. Hence the western people of Tainui call this "Te Waka Nui o Tainu" when other tribes call it "Te Waka nui o Porourangi", 'Te Waka Nui o Rangi" "Te Waka Nui o Awa" etc. It would be best to replace all Tainui with Waka Nui. Thus including and recognising all tribes of Aotearoa New Zealand].
+Futher the Sail of Te Waka Nui o Rangi is incorrectly labelled. Te Rā / the sails are only the Te Kōkota /hyades cluster. 
+
+
+
+I have provided below a full description of this most important consetllation,
+Utilising the Māori names in app is most imporant. I have however provided translations to support nonnative speakers in the implementation of this. 
+Te Waka o Rangi (Constellation Name) = The Great Ship of Rangi
+Matariki (Constellation)        The Prowl/front of the ship.
+Te Kōkota (Hyades) 		The Sails
+Tautoru	(Orion Belt)		The Stern
+Te Hao o Rua 			The Taurapa (Stern Piece). 
+Taramainuku (Sigma Orionis)    	The Captain
+
+
+
 
 -The individual star name Whakaahu either refers to A_Gem or B_Gem,thus
 in this program A_Gem is taken as Whakaahu de to a second reference to
@@ -84,7 +121,8 @@ Stowell from Best(1955).
 
 - Matariki refers to the Pleiades,
 which technically, is not a single star but a star cluster made up dozens
-of stars, six visible for naked eye observing, seven if great.
+of stars, six visible for naked eye observing, seven if great. 
+[Correction, Tūhoe Celestial Expert Dr Rangi Matamua and almost all Māori tribes recognise 9 stars all of which have been listed above].
 
 -WhitiKaupeka and Ruawahia are other Stowell references, A source
 that does not fully correlate with Best.
