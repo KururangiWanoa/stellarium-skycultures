@@ -34,7 +34,7 @@
     {
       "id": "CON maori 003",
       "lines": [[26727, 26311, 25930]],
-      "common_name": {"english": "Tau-toro"}
+      "common_name": {"english": "Tautoru"}
     },
     {
       "id": "CON maori 004",
@@ -48,7 +48,7 @@
           {"pos": [47, 280], "hip": 85927}
         ]
       },
-      "common_name": {"english": "The Great Boat of Tama Rereti", "pronounce": "Te-Waka-o-Tama-Rereti"}
+      "common_name": {"english": "The Ship of Tamarēreti", "pronounce": "Te-Waka-o-Tamarēreti"}
     },
     {
       "id": "CON maori 005",
@@ -67,7 +67,7 @@
           {"pos": [185, 12], "hip": 26451}
         ]
       },
-      "common_name": {"english": "The Sail of Tainui", "pronounce": "Te-Ra-o-Tainui"}
+      "common_name": {"english": "The Ship of", "pronounce": "Te Waka o Rangi"}
     }
   ],
   "common_names": {
@@ -75,13 +75,13 @@
     "HIP 21421": [{"pronounce": "Taumata-kuku"}],
     "HIP 24436": [{"pronounce": "Puanga"}],
     "HIP 30438": [{"pronounce": "Atutahi"}],
-    "HIP 32349": [{"pronounce": "Takarua"}],
+    "HIP 32349": [{"pronounce": "Takurua"}],
     "HIP 36850": [{"pronounce": "Whakaahu"}],
-    "HIP 37279": [{"pronounce": "Puanga Hori"}],
+    "HIP 37279": [{"pronounce": "Puanga-Hori"}],
     "HIP 65474": [{"pronounce": "Mariao"}],
-    "HIP 69673": [{"pronounce": "Ruawahia"}],
+    "HIP 69673": [{"pronounce": "Ruawāhia"}],
     "HIP 80763": [{"pronounce": "Rehua"}],
-    "HIP 80112": [{"pronounce": "Pekehawani"}],
+    "HIP 80112": [{"pronounce": "Pekehāwani"}],
     "HIP 81266": [{"pronounce": "Whakaonge-kai"}],
     "HIP 91262": [{"pronounce": "Whanui"}],
     "HIP 97649": [{"pronounce": "Poutu-te-Rangi"}],
@@ -90,10 +90,10 @@
     "HIP 17702": [{"pronounce": "Matariki"}],
     "HIP 17573": [{"pronounce": "Waiti"}],
     "HIP 17531": [{"pronounce": "Waita"}],
-    "HIP 17847": [{"pronounce": "Tupuarangi"}],
+    "HIP 17847": [{"pronounce": "Tupuārangi"}],
     "HIP 17579": [{"pronounce": "Pohutukawa"}],
     "HIP 17489": [{"pronounce": "Hiwa-i-te-rangi"}],
-    "HIP 17851": [{"pronounce": "Tupuanuku"}],
+    "HIP 17851": [{"pronounce": "Tupuānuku"}],
     "HIP 17608": [{"pronounce": "Ururangi"}]
   }
 }
